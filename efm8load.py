@@ -80,6 +80,7 @@ class EFM8Loader:
                                          }],
                       0x34 : ["EFM8BB3", {
                                          0x01: ["EFM8BB31F64G-QFN32" , 64*1024, 512, 512],
+                                         0x0C: ["EFM8BB31F16G-QFN24" , 16*1024, 512, 512],
                                          }]
                  }
 
